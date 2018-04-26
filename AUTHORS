@@ -22,3 +22,6 @@ Other contributors
 
 - Michael Perrotte <https://github.com/mikemimik>
   - Created MumbleConnectionManager class
+
+- Stanislav Radomskiy
+  - fixing issues related to linked channels
