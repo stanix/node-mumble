@@ -1,14 +1,14 @@
 {
   "name": "mumble-s",
   "description": "Mumble client library",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Mikko Rantanen <jubjub@jubjubnest.net>",
-  "homepage": "https://github.com/Rantanen/node-mumble",
-  "bugs": "https://github.com/Rantanen/node-mumble/issues",
+  "homepage": "https://github.com/stanix/node-mumble",
+  "bugs": "https://github.com/stanix/node-mumble/issues",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/Rantanen/node-mumble.git"
+    "url": "https://github.com/stanix/node-mumble"
   },
   "engines": {
     "node": ">=0.10.0"
